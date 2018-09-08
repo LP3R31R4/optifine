@@ -311,8 +311,8 @@ of.options.AF_LEVEL.tooltip.4=A filtragem anisotrópica restaura detalhes em tex
 of.options.AF_LEVEL.tooltip.5=de mipmap. Ao ativar, pode reduzir significativamente
 of.options.AF_LEVEL.tooltip.6=a taxa de quadros.
 
-of.options.CLEAR_WATER=Água clara
-of.options.CLEAR_WATER.tooltip.1=Água clara
+of.options.CLEAR_WATER=Água limpa
+of.options.CLEAR_WATER.tooltip.1=Água limpa
 of.options.CLEAR_WATER.tooltip.2=  Sim - água transparente
 of.options.CLEAR_WATER.tooltip.3=  Não - água padrão
 
@@ -323,14 +323,14 @@ of.options.RANDOM_ENTITIES.tooltip.3=  Sim - com entidades aleatórias (lenta)
 of.options.RANDOM_ENTITIES.tooltip.4=Entidades aleatórias usam texturas randômicas.
 of.options.RANDOM_ENTITIES.tooltip.5=Requer um pacote com múltiplas texturas de entidades.
 
-of.options.BETTER_GRASS=Better Grass
-of.options.BETTER_GRASS.tooltip.1=Better Grass
+of.options.BETTER_GRASS=Grama melhor
+of.options.BETTER_GRASS.tooltip.1=Grama melhor
 of.options.BETTER_GRASS.tooltip.2=  Não - textura padrão da grama (rápida)
 of.options.BETTER_GRASS.tooltip.3=  Rápidos - textura integrada da grama (lenta)
 of.options.BETTER_GRASS.tooltip.4=  Bonitos - textura dinâmica da grama (mais lenta!)
 
-of.options.BETTER_SNOW=Better Snow
-of.options.BETTER_SNOW.tooltip.1=Better Snow
+of.options.BETTER_SNOW=Neve melhor
+of.options.BETTER_SNOW.tooltip.1=Neve melhor
 of.options.BETTER_SNOW.tooltip.2=  Não - neve padrão (rápida)
 of.options.BETTER_SNOW.tooltip.3=  Sim - neve integrada (lenta)
 of.options.BETTER_SNOW.tooltip.4=Exibe a neve ao redor e entre blocos como
@@ -356,7 +356,7 @@ of.options.SWAMP_COLORS.tooltip.2=  Sim - (padrão) ativar cores do pântano (le
 of.options.SWAMP_COLORS.tooltip.3=  Não - desativar cores do pântano (rápidas)
 of.options.SWAMP_COLORS.tooltip.4=As cores do pântano afetam a vegetação e água.
 
-of.options.SMOOTH_BIOMES=Integrar biomas
+of.options.SMOOTH_BIOMES=Integração de biomas suave
 of.options.SMOOTH_BIOMES.tooltip.1=Integrar bordas de biomas
 of.options.SMOOTH_BIOMES.tooltip.2=  Sim - (padrão) integrar bordas de biomas (lentas)
 of.options.SMOOTH_BIOMES.tooltip.3=  Não - distinguir bordas de biomas (rápidas)
@@ -536,7 +536,7 @@ of.options.DYNAMIC_LIGHTS.tooltip.7=caídos no chão.
 
 # Performance
 
-of.options.SMOOTH_FPS=Smooth FPS
+of.options.SMOOTH_FPS=FPS Suave
 of.options.SMOOTH_FPS.tooltip.1=Estabiliza a taxa ao equilibrar buffers do driver gráfico.
 of.options.SMOOTH_FPS.tooltip.2=  Não - taxa de quadros instável
 of.options.SMOOTH_FPS.tooltip.3=  Sim - taxa de quadros estável
@@ -558,8 +558,8 @@ of.options.FAST_RENDER.tooltip.4=Utiliza um algoritmo especial de renderização
 of.options.FAST_RENDER.tooltip.5=reduz o uso da GPU e eleva a taxa de quadros.
 of.options.FAST_RENDER.tooltip.6=Esta opção pode entrar em conflito com alguns mods.
 
-of.options.FAST_MATH=Fast Math
-of.options.FAST_MATH.tooltip.1=Fast Math
+of.options.FAST_MATH=Cálculos Rápidos
+of.options.FAST_MATH.tooltip.1=Cálculos Rápidos
 of.options.FAST_MATH.tooltip.2= Não - (padrão) cálculos padrão
 of.options.FAST_MATH.tooltip.3= Sim - cálculos otimizados
 of.options.FAST_MATH.tooltip.4=Utiliza funções seno() e cosseno() especiais que
@@ -598,8 +598,8 @@ of.options.RENDER_REGIONS.tooltip.4=Ao ativar, renderiza terrenos distantes mais
 of.options.RENDER_REGIONS.tooltip.5=rapidamente. Ative o VBO para melhores resultados.
 of.options.RENDER_REGIONS.tooltip.6=Não recomendado para drivers gráficos incluídos.
 
-of.options.SMART_ANIMATIONS=Smart Animations
-of.options.SMART_ANIMATIONS.tooltip.1=Smart Animations
+of.options.SMART_ANIMATIONS=Animações Inteligentes
+of.options.SMART_ANIMATIONS.tooltip.1=Animações Inteligentes
 of.options.SMART_ANIMATIONS.tooltip.2= Não - (padrão) animações normais
 of.options.SMART_ANIMATIONS.tooltip.3= Sim - animações inteligentes
 of.options.SMART_ANIMATIONS.tooltip.4=Ao ativar, o jogo animará somente as texturas
@@ -704,13 +704,13 @@ of.options.SCREENSHOT_SIZE=Captura de tela
 of.options.SCREENSHOT_SIZE.tooltip.1=Tamanho da captura de tela
 of.options.SCREENSHOT_SIZE.tooltip.2=  Padrão - tamanho predefinido
 of.options.SCREENSHOT_SIZE.tooltip.3=  2x-4x - tamanho personalizado
-of.options.SCREENSHOT_SIZE.tooltip.4=Tamanhos maiores requerem mais memória.
+of.options.SCREENSHOT_SIZE.tooltip.4=Tamanhos maiores necessitam de mais memória.
 of.options.SCREENSHOT_SIZE.tooltip.5=Incompatível com a renderização rápida e antialiasing.
 of.options.SCREENSHOT_SIZE.tooltip.6=Requer o suporte de framebuffer da GPU.
 
-of.options.SHOW_GL_ERRORS=Erros da OpenGL
-of.options.SHOW_GL_ERRORS.tooltip.1=Mostrar erros da OpenGL
-of.options.SHOW_GL_ERRORS.tooltip.2=Ao ativar, erros da OpenGL são exibidos no bate-papo.
+of.options.SHOW_GL_ERRORS=Erros do OpenGL
+of.options.SHOW_GL_ERRORS.tooltip.1=Mostrar erros do OpenGL
+of.options.SHOW_GL_ERRORS.tooltip.2=Ao ativar, erros do OpenGL são exibidos no bate-papo.
 of.options.SHOW_GL_ERRORS.tooltip.3=Desativar apenas caso haja conflitos e se os erros
 of.options.SHOW_GL_ERRORS.tooltip.4=não puderem ser corrigidos.
 of.options.SHOW_GL_ERRORS.tooltip.5=Ao desativar, erros ainda são registrados e
